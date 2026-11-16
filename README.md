@@ -68,6 +68,7 @@ salasasa 平台要求上传内容须由上传者拥有版权，或取得明确�
 
 ## 下载
 
-- GitHub 仓库：（待创建后填写地址）
+- GitHub 仓库：[https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face](https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face)
+  （[GitHub zip 直链](https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face/archive/refs/heads/main.zip)）
 - 百度网盘（salasasa 平台直传包）：[https://pan.baidu.com/s/10OIueWzkrMVnxsRUwqHuOg?pwd=1j6u](https://pan.baidu.com/s/10OIueWzkrMVnxsRUwqHuOg?pwd=1j6u)　提取码: `1j6u`
   （分享文件：Ce_lEst1al-HKv2.zip）
