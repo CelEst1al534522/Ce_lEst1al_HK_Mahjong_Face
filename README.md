@@ -82,7 +82,31 @@ Ce_lEst1al_HK_Mahjong_Face_v2.1/
 
 ## 下载
 
-- GitHub 仓库：（上传后填写地址）
-- 百度网盘（v2.1）：[https://pan.baidu.com/s/1_3ie9jVBRLOaL17l16IL_Q?pwd=crv7](https://pan.baidu.com/s/1_3ie9jVBRLOaL17l16IL_Q?pwd=crv7)　提取码: `crv7`
+本仓库按版本分分支：默认分支 **v2.1**（最新，平台新格式），旧版保留在 **v2** 分支。
+
+### v2.1（当前默认分支，推荐）
+
+- 仓库主页：[https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face](https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face)
+- 分支页面：[tree/v2.1](https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face/tree/v2.1)
+- 整仓打包（含全部 PNG、tiles.cfg、说明与预览）：
+  [v2.1.zip](https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face/archive/refs/heads/v2.1.zip)
+  —— 这是**源码仓库快照**，不能直接上传平台。
+- **平台直传包单文件**（上传 salasasa 请用这个）：
+  [Ce_lEst1al-HKv2.1.zip](https://raw.githubusercontent.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face/v2.1/Ce_lEst1al-HKv2.1.zip)
+  （或打开[文件页](https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face/blob/v2.1/Ce_lEst1al-HKv2.1.zip)点右上角 Download）
+- 百度网盘：[https://pan.baidu.com/s/1_3ie9jVBRLOaL17l16IL_Q?pwd=crv7](https://pan.baidu.com/s/1_3ie9jVBRLOaL17l16IL_Q?pwd=crv7)　提取码: `crv7`
   （分享文件：Ce_lEst1al-HKv2.1.zip）
 
+### v2（旧版分支，手牌 / 3D 分文件夹的旧格式）
+
+- 分支页面：[tree/v2](https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face/tree/v2)
+- 整仓打包：[v2.zip](https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face/archive/refs/heads/v2.zip)
+- 百度网盘：[https://pan.baidu.com/s/10OIueWzkrMVnxsRUwqHuOg?pwd=1j6u](https://pan.baidu.com/s/10OIueWzkrMVnxsRUwqHuOg?pwd=1j6u)　提取码: `1j6u`
+  （分享文件：Ce_lEst1al-HKv2.zip）
+
+### Git 命令行
+
+```bash
+git clone -b v2.1 https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face.git
+git clone -b v2   https://github.com/CelEst1al534522/Ce_lEst1al_HK_Mahjong_Face.git
+```
