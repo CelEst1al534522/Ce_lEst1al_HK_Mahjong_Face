@@ -83,4 +83,6 @@ Ce_lEst1al_HK_Mahjong_Face_v2.1/
 ## 下载
 
 - GitHub 仓库：（上传后填写地址）
-- 百度网盘（v2.1）：[https://pan.baidu.com/s/1o0tJ7SQJs5a3BBEaUrCMIA?pwd=av84](https://pan.baidu.com/s/1o0tJ7SQJs5a3BBEaUrCMIA?pwd=av84)　提取码: `av84`
+- 百度网盘（v2.1）：[https://pan.baidu.com/s/1_3ie9jVBRLOaL17l16IL_Q?pwd=crv7](https://pan.baidu.com/s/1_3ie9jVBRLOaL17l16IL_Q?pwd=crv7)　提取码: `crv7`
+  （分享文件：Ce_lEst1al-HKv2.1.zip）
+
